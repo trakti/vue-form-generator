@@ -36,7 +36,7 @@ export default {
 						})
 					)
 					.on("dp.change", () => {
-						this.value = input.value;
+						this.value = input.value ? input.value : null;
 					});
 			} else {
 				console.warn(
