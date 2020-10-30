@@ -1,8 +1,8 @@
 {
   "name": "vue-form-generator",
-  "version": "2.3.3-trakti-1.0",
+  "version": "2.3.3-trakti-1.1",
   "description": "A schema-based form generator component for Vue.js",
-  "homepage": "https://github.com/vue-generators/vue-form-generator/",
+  "homepage": "https://github.com/trakti/vue-form-generator/",
   "main": "dist/vfg.js",
   "scripts": {
     "prebuild": "npm run test",
